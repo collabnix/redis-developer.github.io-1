@@ -22,6 +22,7 @@ function Home() {
       <Hero />
       <main className="home-main">
         <Languages />
+        <Launchpad />
         <Demos />
         <Resources />
       </main>
